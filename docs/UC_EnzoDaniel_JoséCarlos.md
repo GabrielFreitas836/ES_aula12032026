@@ -2,15 +2,15 @@
 
 # DIAGRAMAÇÃO
 
-<img width="646" height="412" alt="image" src="[https://github.com/user-attachments/assets/f3bcf9ef-113f-441d-8aaa-306150ddf93f](https://github.com/user-attachments/assets/f3bcf9ef-113f-441d-8aaa-306150ddf93f)" />
+<img width="646" height="412" alt="image" src="https://github.com/user-attachments/assets/a15a179b-c17d-468f-b6db-f23b631b3383" />
 Diagrama Recepcionista
-<img width="418" height="404" alt="image" src="[https://github.com/user-attachments/assets/08145321-8d66-4992-a0e8-e569741eb731](https://github.com/user-attachments/assets/08145321-8d66-4992-a0e8-e569741eb731)" />
+<img width="524" height="449" alt="image" src="https://github.com/user-attachments/assets/46ad2407-0377-4784-b430-5955eb2bbcd9" />
 Diagrama Aluno
-<img width="680" height="457" alt="image" src="[https://github.com/user-attachments/assets/7f13a64e-af81-4ae8-9a18-a461542fe074](https://github.com/user-attachments/assets/7f13a64e-af81-4ae8-9a18-a461542fe074)" />
+<img width="418" height="404" alt="image" src="https://github.com/user-attachments/assets/9d10b5a8-7160-4aaa-9102-46a40b87117a" />
 Diagrama API
-<img width="524" height="449" alt="image" src="[https://github.com/user-attachments/assets/92f7c4db-9e8c-4c3b-98a3-ad4bf8cbc36c](https://github.com/user-attachments/assets/92f7c4db-9e8c-4c3b-98a3-ad4bf8cbc36c)" />
+<img width="524" height="449" alt="image" src="https://github.com/user-attachments/assets/86604646-fe87-41b4-b65f-a7b5ee325b3e" />
 Diagrama Gerente
-<img width="489" height="394" alt="image" src="[https://github.com/user-attachments/assets/82ed64e7-92ba-4ca0-a588-aa0d5f53204d](https://github.com/user-attachments/assets/82ed64e7-92ba-4ca0-a588-aa0d5f53204d)" />
+<img width="489" height="394" alt="image" src="https://github.com/user-attachments/assets/7fa229f1-3694-4884-b4d2-aa08f6055d9a" />
 Diagrama Instrutor
 
 ---
