@@ -8,7 +8,7 @@ Diagrama Recepcionista
 Diagrama Aluno
 <img width="418" height="404" alt="image" src="https://github.com/user-attachments/assets/9d10b5a8-7160-4aaa-9102-46a40b87117a" />
 Diagrama API
-<img width="524" height="449" alt="image" src="https://github.com/user-attachments/assets/86604646-fe87-41b4-b65f-a7b5ee325b3e" />
+<img width="680" height="457" alt="image" src="https://github.com/user-attachments/assets/77b6392b-e33f-4197-a046-2d272b27c693" />
 Diagrama Gerente
 <img width="489" height="394" alt="image" src="https://github.com/user-attachments/assets/7fa229f1-3694-4884-b4d2-aa08f6055d9a" />
 Diagrama Instrutor
