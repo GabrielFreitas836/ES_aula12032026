@@ -1,0 +1,46 @@
+@startuml DUC_01_CalebeMoraes_MarcioSoares
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Recepcionista" as Rec
+actor "Aluno" as Alu
+actor "Instrutor" as Ins
+actor "Gerente" as Ger
+actor "Sistema de Catraca" as Cat << Application >>
+
+rectangle "FitPass Gym Management" {
+    
+    package "Gestão de Acesso e Matrícula" {
+        Rec -- (UC01: Efetuar Matrícula)
+        Rec -- (UC10: Cancelar Matrícula)
+        Rec -- (UC11: Trancar Plano)
+        Alu -- (UC12: Atualizar Cadastro)
+        (UC04: Validar Acesso) -- Cat
+        Alu -- (UC04: Validar Acesso)
+        Rec -- (UC16: Registrar Entrada Manual)
+    }
+
+    package "Financeiro" {
+        Rec -- (UC03: Registrar Pagamento)
+        Rec -- (UC15: Emitir Comprovante)
+        Alu -- (UC20: Alterar Forma Pagamento)
+        Ger -- (UC02: Manter Planos)
+        Ger -- (UC09: Gerar Relatório Inadimplência)
+    }
+
+    package "Treinos e Aulas" {
+        Alu -- (UC05: Agendar Aula Coletiva)
+        Alu -- (UC19: Consultar Vagas)
+        Ins -- (UC06: Registrar Presença)
+        Ins -- (UC18: Atribuir Treino)
+        Alu -- (UC08: Consultar Histórico Treino)
+        Ger -- (UC13: Configurar Horários Aulas)
+    }
+
+    package "Avaliação e Performance" {
+        Ins -- (UC07: Realizar Avaliação Física)
+        Alu -- (UC14: Visualizar Evolução)
+        Ger -- (UC17: Relatório Frequência)
+    }
+}
+@enduml

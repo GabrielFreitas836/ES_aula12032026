@@ -1,0 +1,16 @@
+@startuml DUC_02_CalebeMoraes_MarcioSoares
+left to right direction
+actor "Aluno" as Alu
+actor "Sistema de Catraca" as Cat << Application >>
+
+rectangle "FitPass - Ações do Aluno" {
+    Alu -- (UC04: Validar Acesso)
+    Cat -- (UC04: Validar Acesso)
+    Alu -- (UC05: Agendar Aula Coletiva)
+    Alu -- (UC08: Consultar Histórico Treino)
+    Alu -- (UC12: Atualizar Cadastro)
+    Alu -- (UC14: Visualizar Evolução)
+    Alu -- (UC19: Consultar Vagas)
+    Alu -- (UC20: Alterar Forma Pagamento)
+}
+@enduml
